@@ -1,29 +1,14 @@
 brotlipy==0.7.0
 certifi==2021.5.30
-cffi @ file:///C:/ci/cffi_1625831756778/work
-chardet @ file:///C:/ci/chardet_1607706937985/work
 click==8.0.1
 colorama==0.4.4
-cryptography @ file:///C:/ci/cryptography_1616769504165/work
 Flask==2.0.1
 Flask-Cors==3.0.10
 gunicorn==20.1.0
 hentai==3.2.7
-idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
-praw @ file:///home/conda/feedstock_root/build_artifacts/praw_1588468450379/work
-prawcore @ file:///home/conda/feedstock_root/build_artifacts/prawcore_1588466065629/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
 tqdm==4.61.1
-update-checker @ file:///home/conda/feedstock_root/build_artifacts/update_checker_1596529541613/work
-urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
-websocket-client @ file:///C:/ci/websocket-client_1614804375980/work
 Werkzeug==2.0.1
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 wincertstore==0.2
