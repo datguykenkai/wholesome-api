@@ -33,7 +33,8 @@ def get_doujin(num):
     title = doujin.title(Format.Pretty)
     artists = [artist.name for artist in doujin.artist]
     tags = [tag.name for tag in doujin.tag]
-    cover = doujin.image_urls[0]
+    # cover = doujin.image_urls[0]
+    cover = doujin.cover
     return {"title": title,
             "artists": artists,
             "cover":cover,
