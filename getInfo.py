@@ -1,5 +1,5 @@
 from commentScrape import read_from_txt
-from commentScrape import scrape_comment, parse_comment
+#from commentScrape import scrape_comment, parse_comment
 from random import choice
 from hentai import Hentai, Format
 

@@ -1,6 +1,7 @@
-import praw
+#import praw
 import re
 
+"""
 def scrape_comment():
     reddit = praw.Reddit(
         user_agent="scraper",
@@ -33,6 +34,7 @@ def save_to_txt(the_numbers) -> None:
     with open('the_numbers.txt', 'w') as f:
         for item in the_numbers:
             f.write("%s\n" % item)
+"""
 
 def read_from_txt(txt) -> list:
     the_file = open(txt, "r")
