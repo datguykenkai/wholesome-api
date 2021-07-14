@@ -18,7 +18,7 @@ def get_url():
     the_numbers = parse_comment(comment)
     print(f"Random Holy Link: {choice(the_numbers)}")
     """
-    the_numbers = read_from_txt("./back/the_numbers.txt")
+    the_numbers = read_from_txt("./the_numbers.txt")
     #print(f"Random Wholesome Link: {choice(the_numbers)}")
     return choice(the_numbers)
 
